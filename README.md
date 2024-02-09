@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kalindu Liyanage Don
 ============================================================================================================================================
 
-Python and Machine Learning Enthusiast
+Data Analyst | Leveraging Python and SQL for Data-Driven Solutions
 --------------------------------------
 
-Passionate Python developer and former sales professional, I transitioned to coding driven by a strong curiosity for technology. Armed with skills, I showcase my commitment to growth and innovation in my projects. Eager to contribute my Python expertise to dynamic projects and collaborative teams, I invite you to explore my portfolio and connect for a transformative journey into the world of programming.
+Passionate and detail-oriented Data Analysis professional with over 4 years of hands-on experience in SQL and Python, backed by a strong educational background. Eager to apply my skills in a dynamic workplace, where I can contribute to data-driven projects and continue to grow in a stimulating environment, adept at using data to make informed decisions.
 
 * 🌍  I'm based in Cambridge, ON, Canada
 * 🖥️  See my portfolio at [MyPortfolio](http://kalindu1994.pythonanywhere.com/)
 * ✉️  You can contact me at [kg.liyanage4@gmail.com](mailto:kg.liyanage4@gmail.com)
-* 🧠  I'm learning Complete A.I. Machine Learning and Data Science Bootcamp: Zero to Mastery
+* 🧠  I'm learning CS50 SQL and CS50 Python courses
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
