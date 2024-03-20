@@ -7,7 +7,7 @@ Data Analyst
 With a strong command of SQL, Tableau, Python, and a diverse toolkit in data analytics and visualization, I specialize in crafting compelling narratives through interactive dashboards and data visualizations. Leveraging my expertise in data engineering, I streamline complex processes to extract actionable insights and drive strategic decision-making.
 
 * 🌍  I'm based in Cambridge, ON, Canada
-* 🖥️  See my portfolio at [MyPortfolio](http://kalinduliyanage.notion.site/Portfolio-d8c631ee61c24b7ea0b17b151e26fd7b?pvs=4)
+* 🖥️  See my portfolio at [MyPortfolio]([http://kalinduliyanage.notion.site/Portfolio-d8c631ee61c24b7ea0b17b151e26fd7b?pvs=4](https://www.notion.so/kalinduliyanage/Kalindu-Liyanage-Don-Portfolio-fa6bb0a1dbe847db81dd82ebbee62703?pvs=4))
 * ✉️  You can contact me at [kg.liyanage4@gmail.com](mailto:kg.liyanage4@gmail.com)
 * 🧠  I'm learning Machine Learning
 
